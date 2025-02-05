@@ -46,7 +46,7 @@ def editar_estudiante():
     try:
         seleccion = int(input("\nSeleccione el número del estudiante que desea editar: "))
         if seleccion < 1 or seleccion > len(estudiantes):
-            print("Número inválido. Por favor, seleccione un número dentro del rango.")
+            print("Número inválido. Seleccione un número dentro del rango.")
             return
         
         estudiante_seleccionado = estudiantes[seleccion - 1]
@@ -74,7 +74,7 @@ def editar_estudiante():
     except ValueError:
         print("Entrada inválida. Por favor, ingrese un número.")
 
-def importante():
+def menu():
     while True:
         print("\nMenú")
         print("1. Mostrar lista de estudiantes")
@@ -94,4 +94,4 @@ def importante():
             print("Opción inválida. Por favor, elija una opción del 1 al 3.")
 
 # Ejecutar el menú principal
-importante()
+menu()
