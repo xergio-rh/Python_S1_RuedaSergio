@@ -1,4 +1,5 @@
 ##Ejercicio 4: Generador de contraseña
+###:EJEPLO DE CHATGPT  --------------------
 
 import random
 import string

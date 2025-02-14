@@ -1,46 +1,27 @@
-##Ejercicio 7: Programa para determinar si dos numeros son amigos
-
-n1=int(input("Ingresa el primer numero:"))
-n2=int(input("Ingresa el segundo numero:"))
-
-suma1=0
-suma2=0
-
-for i in range (1,n1):
-    if (n1 % i==0):
-        suma1=suma1 + i
-
-for i in range (1,n2):
-    if (n2 % i==0):
-        suma2=suma2 + i
-
-if (suma1==n2 and suma2==n1):
-    print("son numeros amigos")
-else:
-    print("son numeros enemigos")
-
-
-##Desarrollado por: Sergio Rueda / T.I: 1.097.101.293
-
-
-
-##Ejericio 7 Pro- Filtro Python
+##Ejericio 7 - Filtro Python Sergio Rueda
 ##Numeros Amigos
 
-def suma_divisores_propios(n):
-    suma=0
-    for i in range(1,n):
-        if n%i == 0:
-            suma += i #suma=suma+i
-    return suma
-
-def numeros_amigos(a,b):
-    return suma_divisores_propios(a) == b and suma_divisores_propios(b) == a
+##1er Paso - Pedir los dos numeros y tener dos variables que almacenen las dos sumatorias
 
 num1=int(input("Ingresa el primer número:"))
 num2=int(input("Ingresa el segundo número:"))
 
-if(numeros_amigos(num1,num2)):
-    print("Los numeros se aman! :loveatfirstsight:")
+suma1=0
+suma2=0
+
+##2ndo - Crear los ciclos que busquen los divisores
+
+for i in range(1,num1):
+    if(num1%i==0):
+        suma1=suma1+i
+for i in range(1,num2):
+    if(num2%i==0):
+        suma2=suma2+i
+
+##3er - Comparar si la sumatoria de A es igual al numero B y viceversa
+if(suma1 == num2 and suma2==num1):
+    print("Los numeros son bros!")
 else:
-    print("Los numeros se odian")
+    print("Los números no son bros :sadfeis:")
+
+## Desarrollado por: Sergio Rueda / T.I: 1.097.101.293
