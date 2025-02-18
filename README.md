@@ -5,16 +5,18 @@
 |#### Carpeta   |####Ejercicios |
 | ------------- | ------------- |
 |               | [Ejercicio 1](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio1.py)
-|    DIA 1      | [Ejercicio 2](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio2.py)   
+|               | [Ejercicio 2](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio2.py)   
 |               | [Ejercicio 3](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio2.py)   
-|               | [Ejercicio 4](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio4.py)   
+|    DIA 1      | [Ejercicio 4](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio4.py)   
 |               | [Ejercicio 5](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio5.py)   
 |               | [Ejercicio 6](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio6.py)   
 |               | [Ejercicio 7](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio7.py)   
 | ------------- | ------------- |
-|               |               |
-|    DIA 2      |               |
-|               |               |
+|               | [Ejercicio 1](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%202/Ejercicio%201.py)               |
+|               | [Ejercicio 2](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%202/Ejercicio%202.py)              |
+|    DIA 2      | [Ejercicio 3](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%202/Ejercicio%203.py)
+|               | [Ejercicio 4](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%202/Ejercicio%204.py)
+|               | [Ejercicio 5](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%202/Ejercicio5.py)
 | ------------- | ------------- |
 |               |               |
 |    DIA 3      |               |
