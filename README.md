@@ -4,7 +4,7 @@
 
 |#### Carpeta   |####Ejercicios |
 | ------------- | ------------- |
-|               | [Ejercicio 1](https://github.com/xergio-rh/Python_S1_RuedaSergio/tree/master/Dia%201)
+|               | Ejercicio 1 (https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio1.py)
 |    DIA 1      | Ejercicio 2   |
 |               | Ejercicio 3   |
 |               | Ejercicio 4   |
