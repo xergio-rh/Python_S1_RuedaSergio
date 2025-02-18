@@ -2,7 +2,7 @@
 ### En este repositorio encontraras proyetos realizadas en clase de Introduccion a Python, proyectos dejados de tarea, ejercicios de ejemplo desarrollados por el profesor Pedro, y tambien un poco de ejercicos de practica desarrollados por mi
 ***
 
-|#### Carpeta   |####Ejercicios |
+|     Carpeta   |    Ejercicios |
 | ------------- | ------------- |
 |               | [Ejercicio 1](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio1.py)
 |               | [Ejercicio 2](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%201/Ejercicio2.py)   
