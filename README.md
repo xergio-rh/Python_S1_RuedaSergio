@@ -18,9 +18,9 @@
 |               | [Ejercicio 4](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%202/Ejercicio%204.py)
 |               | [Ejercicio 5](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%202/Ejercicio5.py)
 | ------------- | ------------- |
-|               |               |
-|    DIA 3      |               |
-|               |               |
+|               | [Ejercicio de  |
+|    DIA 3      | practica sobre|
+|               | funciones](https://github.com/xergio-rh/Python_S1_RuedaSergio/blob/master/Dia%203/practicaDef.py)     |
 | ------------- | ------------- |
 |               |               |
 |    DIA 4      |               |
